@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Proyectos/Habitacion/Costes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Proyectos/Habitacion/Costes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Proyectos/Habitacion/Costes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Proyectos/Habitacion/Costes.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "458785e98389ac95",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Proyectos/Habitacion/Herramientas.md",
+    "Proyectos/Habitacion/Influencia.md",
+    "Proyectos/Habitacion/Costes.md",
+    "Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Resumen.md",
+    "Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Lenguaje de Azure AI.md",
     "README.md",
+    "Untitled 1.md",
     "Recursos/Azure AI/Pasted image 20240525212859.png",
     "Recursos/Azure AI/Detección de idioma.md",
     "Recursos/Azure AI",
@@ -174,11 +179,7 @@
     "Recursos/Azure/03 - Azure Functions/Durable functions/Orchestation functions types.md",
     "Recursos/Azure/03 - Azure Functions/Durable functions/Durable functions.md",
     "Recursos/Azure/03 - Azure Functions/Durable functions/Durable functions patterns.md",
-    "Recursos/Psicologia/Persuasión/Persuasión comercial.md",
     "Recursos/Psicologia/Psicología analítica/C.G. Jung",
-    "Recursos/Azure/99 - Exam/Storage Account.md",
-    "Recursos/Azure/99 - Exam/Question 1 - Default scale rule.md",
-    "Recursos/Azure/99 - Exam/Event Hub Questions.md",
     "Recursos/Azure/98 - Draft/Pasted image 20240516183910.png",
     "Recursos/Azure/98 - Draft/Pasted image 20240516183717.png",
     "Recursos/Azure/98 - Draft/Pasted image 20240516183711.png",
