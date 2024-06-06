@@ -1,0 +1,4 @@
+- [[Describir el valor]] y los [[componentes]]  clave de Azure App Service.
+- Explicar cómo Azure App Service administra la [[autenticación y autorización]].
+- Identificar los [[métodos para controlar el tráfico entrante y saliente]] a la aplicación web.
+- Implemente una aplicación en [[App Service mediante comandos de la CLI de Azure]].

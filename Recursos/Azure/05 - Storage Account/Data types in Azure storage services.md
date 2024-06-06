@@ -1,0 +1,4 @@
+- **Blobs**: A massively scalable object store for text and binary data; can include support for Azure Data Lake Storage Gen2.
+- **Files**: Managed file shares for cloud or on-premises deployments.
+- **Queues**: A messaging store for reliable messaging between application components.
+- **Table Storage**: A NoSQL store for schema-less storage of structured data. Table Storage isn't covered in this module.

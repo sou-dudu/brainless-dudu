@@ -1,0 +1,2 @@
+  
+La psique, según C.G. Jung, es la totalidad de la mente humana, compuesta por el consciente y el inconsciente. El consciente incluye todo lo que estamos al tanto, mientras que el inconsciente tiene dos partes: el personal (recuerdos y emociones reprimidas) y el colectivo (arquetipos universales). Jung creía que entender y equilibrar estas partes lleva al crecimiento personal.

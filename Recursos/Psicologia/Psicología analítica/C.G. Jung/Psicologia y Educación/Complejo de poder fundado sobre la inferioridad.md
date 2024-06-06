@@ -1,0 +1,1 @@
+El complejo de poder fundado sobre la inferioridad es una idea propuesta por Alfred Adler. Sugiere que algunas personas desarrollan un deseo excesivo de poder y control como una forma de compensar sentimientos de inferioridad percibida. Buscan dominar a otros para sentirse más poderosos y superiores, tratando de ocultar sus propias inseguridades.

@@ -1,0 +1,2 @@
+  
+La teoría traumática de la histeria, desarrollada por Sigmund Freud, sostiene que los síntomas histéricos son el resultado de traumas emocionales reprimidos, a menudo de naturaleza sexual. Estos traumas, al no ser procesados conscientemente, se manifiestan a través de síntomas físicos y psicológicos. El tratamiento implica hacer consciente el trauma reprimido para aliviar los síntomas.

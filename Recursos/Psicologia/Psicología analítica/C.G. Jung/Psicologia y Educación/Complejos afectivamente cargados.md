@@ -1,0 +1,1 @@
+Los complejos afectivamente cargados, según C.G. Jung, son conglomerados de emociones, pensamientos y recuerdos organizados en torno a experiencias emocionales intensas. Operan de manera autónoma e inconsciente, influyendo en el comportamiento y la percepción. Identificarlos e integrarlos es esencial para el crecimiento psicológico y la individuación.

@@ -1,0 +1,1 @@
+A distributed application is **a collection of computer programs spread across multiple computational nodes**. Each node is a separate physical device or software process but works towards a shared objective. This setup is also known as distributed computing systems.

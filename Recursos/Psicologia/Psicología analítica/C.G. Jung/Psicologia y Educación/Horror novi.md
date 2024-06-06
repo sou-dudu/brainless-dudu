@@ -1,0 +1,1 @@
+"Horror novi" es una expresión latina que significa "miedo a lo nuevo". Describe la resistencia o aversión al cambio y a las novedades, prefiriendo lo familiar y conocido. Este fenómeno puede manifestarse en individuos o grupos, dificultando la adopción de innovaciones y el progreso en diversos contextos.

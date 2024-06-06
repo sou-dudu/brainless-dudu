@@ -1,0 +1,3 @@
+- Explore the [[Data types in Azure storage services]] and services supported by an Azure storage account.
+- Create a new Azure storage account using the Azure portal.
+- Create a new application and connect the app to an Azure Storage account.

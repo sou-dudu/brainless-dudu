@@ -1,0 +1,1 @@
+"Aris totum requirit hominem" es una frase latina que significa "el arte requiere al hombre entero". Esto sugiere que la verdadera apreciación o creación de arte exige la participación completa del individuo: intelecto, emociones y espíritu. El arte no es solo una actividad superficial, sino una que involucra y enriquece toda la personalidad humana.

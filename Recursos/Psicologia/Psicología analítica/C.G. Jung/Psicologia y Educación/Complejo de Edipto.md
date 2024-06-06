@@ -1,0 +1,1 @@
+El Complejo de Edipo, según Freud, es un conflicto psíquico en el que un niño siente deseos sexuales hacia el progenitor del sexo opuesto y rivalidad con el progenitor del mismo sexo. Resolver este complejo es crucial para el desarrollo psicoemocional y la formación de la identidad y relaciones futuras.
