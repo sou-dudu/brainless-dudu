@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Habitacion/Costes.md",
+                "file": "docs/Proyectos/Habitacion/Costes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Habitacion/Costes.md",
+                "file": "docs/Proyectos/Habitacion/Costes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyectos/Habitacion/Costes.md",
+                "file": "docs/Proyectos/Habitacion/Costes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyectos/Habitacion/Costes.md"
+                "file": "docs/Proyectos/Habitacion/Costes.md"
               }
             }
           }
@@ -146,52 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458785e98389ac95",
+  "active": "c2af7527951e9b8a",
   "lastOpenFiles": [
-    "Proyectos/Habitacion/Herramientas.md",
-    "Proyectos/Habitacion/Influencia.md",
-    "Proyectos/Habitacion/Costes.md",
-    "Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Resumen.md",
-    "Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Lenguaje de Azure AI.md",
+    "docs",
+    "docs/Proyectos/Habitacion/Herramientas.md",
+    "docs/Proyectos/Habitacion/Influencia.md",
+    "docs/Proyectos/Habitacion/Costes.md",
+    "docs/Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Resumen.md",
+    "docs/Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Lenguaje de Azure AI.md",
     "README.md",
     "Untitled 1.md",
-    "Recursos/Azure AI/Pasted image 20240525212859.png",
-    "Recursos/Azure AI/Detección de idioma.md",
-    "Recursos/Azure AI",
-    "Recursos/Sociología/Untitled",
-    "Recursos/Azure AI/Extracción de frases clave.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Teoría traumatica de la histeria.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psique.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psicología y Educación.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Horror novi.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Grupos de niños con trastornos psíquicos.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejos afectivamente cargados.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de poder fundado sobre la inferioridad.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de Edipto.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Mandala.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Aris totum requirit hominem.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Inconsciente colectivo.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Arquetipos.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Arquetipos e inconsciente del colectivo.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo",
-    "Recursos/Azure/03 - Azure Functions/Durable functions/Orchestation functions types.md",
-    "Recursos/Azure/03 - Azure Functions/Durable functions/Durable functions.md",
-    "Recursos/Azure/03 - Azure Functions/Durable functions/Durable functions patterns.md",
-    "Recursos/Psicologia/Psicología analítica/C.G. Jung",
-    "Recursos/Azure/98 - Draft/Pasted image 20240516183910.png",
-    "Recursos/Azure/98 - Draft/Pasted image 20240516183717.png",
-    "Recursos/Azure/98 - Draft/Pasted image 20240516183711.png",
-    "Recursos/Azure/98 - Draft/Pasted image 20240508130952.png",
-    "Recursos/Azure/98 - Draft/Pasted image 20240508130927.png",
-    "Recursos/Azure/03 - Azure Functions/Durable functions",
-    "Recursos/Azure/02 - Esquemas/Pasted image 20240423113659.png",
-    "Recursos/Azure/02 - Esquemas/Pasted image 20240423112830.png",
-    "Recursos/Azure/02 - Esquemas/Pasted image 20240423112131.png",
-    "Recursos/Psicologia/Psicología analítica",
-    "Recursos/Psicologia/Persuasión",
-    "Recursos/Azure/Container Apps",
-    "Recursos/Azure/99 - Exam"
+    "docs/Recursos/Azure AI/Pasted image 20240525212859.png",
+    "docs/Recursos/Azure AI/Detección de idioma.md",
+    "docs/Recursos/Azure AI",
+    "docs/Recursos/Sociología/Untitled",
+    "docs/Recursos/Azure AI/Extracción de frases clave.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Teoría traumatica de la histeria.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psique.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psicología y Educación.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Horror novi.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Grupos de niños con trastornos psíquicos.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejos afectivamente cargados.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de poder fundado sobre la inferioridad.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de Edipto.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Mandala.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Aris totum requirit hominem.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Inconsciente colectivo.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Arquetipos.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Arquetipos e inconsciente del colectivo.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo",
+    "docs/Recursos/Azure/03 - Azure Functions/Durable functions/Orchestation functions types.md",
+    "docs/Recursos/Azure/03 - Azure Functions/Durable functions/Durable functions.md",
+    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung",
+    "docs/Recursos/Azure/98 - Draft/Pasted image 20240516183910.png",
+    "docs/Recursos/Azure/98 - Draft/Pasted image 20240516183717.png",
+    "docs/Recursos/Azure/98 - Draft/Pasted image 20240516183711.png",
+    "docs/Recursos/Azure/98 - Draft/Pasted image 20240508130952.png",
+    "docs/Recursos/Azure/98 - Draft/Pasted image 20240508130927.png",
+    "docs/Recursos/Azure/03 - Azure Functions/Durable functions",
+    "docs/Recursos/Azure/02 - Esquemas/Pasted image 20240423113659.png",
+    "docs/Recursos/Azure/02 - Esquemas/Pasted image 20240423112830.png",
+    "docs/Recursos/Azure/02 - Esquemas/Pasted image 20240423112131.png",
+    "docs/Recursos/Psicologia/Psicología analítica",
+    "docs/Recursos/Psicologia/Persuasión",
+    "docs/Recursos/Azure/Container Apps",
+    "docs/Recursos/Azure/99 - Exam"
   ]
 }
