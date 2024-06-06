@@ -1,0 +1,2 @@
+# brainless-dudu
+Obsidian notes
