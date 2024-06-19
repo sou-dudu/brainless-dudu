@@ -1,0 +1,1 @@
+Un recuerdo semántico es una memoria de hechos, conceptos y conocimientos generales, independiente del contexto personal. Ejemplos incluyen recordar capitales de países, definiciones de palabras y datos históricos.

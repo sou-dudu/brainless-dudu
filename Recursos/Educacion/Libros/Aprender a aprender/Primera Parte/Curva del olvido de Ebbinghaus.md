@@ -1,0 +1,1 @@
+La curva del olvido de Ebbinghaus describe cómo olvidamos rápidamente la información recién aprendida si no la revisamos. Demuestra que el olvido sigue una disminución rápida seguida de una estabilización.

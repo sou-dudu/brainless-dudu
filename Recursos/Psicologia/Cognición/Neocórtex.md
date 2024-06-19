@@ -1,0 +1,1 @@
+El neocórtex es la parte más evolucionada del cerebro de los mamíferos, responsable de funciones cognitivas superiores como el pensamiento, la percepción sensorial, el razonamiento y el lenguaje. Constituye la capa externa del cerebro y está altamente desarrollada en los humanos, permitiendo habilidades complejas y adaptativas.

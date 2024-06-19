@@ -1,0 +1,1 @@
+Un recuerdo episódico es una memoria de eventos personales específicos, detallando "qué," "cuándo," y "dónde" ocurrió, incluyendo contexto emocional y situacional, como una fiesta de cumpleaños o una conversación.

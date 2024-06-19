@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "458785e98389ac95",
+            "id": "049f277e846fa453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Proyectos/Habitacion/Costes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Proyectos/Habitacion/Costes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Proyectos/Habitacion/Costes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Proyectos/Habitacion/Costes.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2af7527951e9b8a",
+  "active": "049f277e846fa453",
   "lastOpenFiles": [
-    "docs",
-    "docs/Proyectos/Habitacion/Herramientas.md",
-    "docs/Proyectos/Habitacion/Influencia.md",
-    "docs/Proyectos/Habitacion/Costes.md",
-    "docs/Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Resumen.md",
-    "docs/Proyectos/Azure Applied Skills/Procesamiento del lenguaje natural/Lenguaje de Azure AI.md",
+    "Recursos/Sociología/Libros.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/El poder olvidado.md",
+    "Areas/Finanzas",
+    "Archivo/Habitacion/Costes.md",
+    "Archivo/Habitacion/Influencia.md",
+    "Archivo/Habitacion/Herramientas.md",
+    "Recursos/Educacion/Libros sobre Educacion.md",
     "README.md",
-    "Untitled 1.md",
-    "docs/Recursos/Azure AI/Pasted image 20240525212859.png",
-    "docs/Recursos/Azure AI/Detección de idioma.md",
-    "docs/Recursos/Azure AI",
-    "docs/Recursos/Sociología/Untitled",
-    "docs/Recursos/Azure AI/Extracción de frases clave.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Teoría traumatica de la histeria.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psique.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psicología y Educación.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Horror novi.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Grupos de niños con trastornos psíquicos.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejos afectivamente cargados.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de poder fundado sobre la inferioridad.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de Edipto.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Mandala.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Aris totum requirit hominem.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Inconsciente colectivo.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Arquetipos.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo/Arquetipos e inconsciente del colectivo.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung/Arquetipos e inconsciente colectivo",
-    "docs/Recursos/Azure/03 - Azure Functions/Durable functions/Orchestation functions types.md",
-    "docs/Recursos/Azure/03 - Azure Functions/Durable functions/Durable functions.md",
-    "docs/Recursos/Psicologia/Psicología analítica/C.G. Jung",
-    "docs/Recursos/Azure/98 - Draft/Pasted image 20240516183910.png",
-    "docs/Recursos/Azure/98 - Draft/Pasted image 20240516183717.png",
-    "docs/Recursos/Azure/98 - Draft/Pasted image 20240516183711.png",
-    "docs/Recursos/Azure/98 - Draft/Pasted image 20240508130952.png",
-    "docs/Recursos/Azure/98 - Draft/Pasted image 20240508130927.png",
-    "docs/Recursos/Azure/03 - Azure Functions/Durable functions",
-    "docs/Recursos/Azure/02 - Esquemas/Pasted image 20240423113659.png",
-    "docs/Recursos/Azure/02 - Esquemas/Pasted image 20240423112830.png",
-    "docs/Recursos/Azure/02 - Esquemas/Pasted image 20240423112131.png",
-    "docs/Recursos/Psicologia/Psicología analítica",
-    "docs/Recursos/Psicologia/Persuasión",
-    "docs/Recursos/Azure/Container Apps",
-    "docs/Recursos/Azure/99 - Exam"
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/El contador de historias.md",
+    "Recursos/Psicologia/Cognición/Hipocampo.md",
+    "Recursos/Psicologia/Cognición/Corteza entorrinal.md",
+    "Recursos/Psicologia/Cognición/Neocórtex.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/Recuerdo semántico.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/Recuerdo episódico.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Aprender a aprender.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/Reminiscencia.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/Curva del olvido de Ebbinghaus.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte/Teoría del olvido por desuso.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Primera Parte",
+    "Recursos/Psicologia/Cognición/Untitled.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psique.md",
+    "Recursos/Psicologia/Cognición",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Grupos de niños con trastornos psíquicos.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejos afectivamente cargados.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de poder fundado sobre la inferioridad.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Complejo de Edipto.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Aris totum requirit hominem.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Psicología y Educación.md",
+    "Recursos/Psicologia/Psicología analítica/C.G. Jung/Psicologia y Educación/Horror novi.md",
+    "Recursos/Educacion/Libros/Aprender a aprender/Imagenes",
+    "Recursos/Educacion/Libros/Aprender a aprender/Imagenes/Pasted image 20240619103057.png",
+    "Recursos/Psicologia/Conceptos",
+    "Proyectos/Sport Betting/Project Info/Research and Planning",
+    "Proyectos/Sport Betting/Project Info",
+    "Proyectos/Sport Betting/Originating",
+    "Proyectos/Sport Betting/App",
+    "Proyectos/Sport Betting",
+    "Areas/AI/Pasted image 20240525212859.png",
+    "Areas/Azure/98 - Draft/Pasted image 20240516183910.png",
+    "Areas/Azure/98 - Draft/Pasted image 20240516183717.png",
+    "Areas/Azure/98 - Draft/Pasted image 20240516183711.png",
+    "Areas/Azure/98 - Draft/Pasted image 20240508130952.png",
+    "Areas/Azure/98 - Draft/Pasted image 20240508130927.png",
+    "Areas/Azure/02 - Esquemas/Pasted image 20240423113659.png",
+    "Areas/Azure/02 - Esquemas/Pasted image 20240423112830.png",
+    "Areas/Azure/02 - Esquemas/Pasted image 20240423112131.png"
   ]
 }

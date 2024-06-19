@@ -1,0 +1,1 @@
+La teoría del olvido por desuso postula que los recuerdos se debilitan con el tiempo si no se usan o practican. La falta de activación y recuperación de la memoria provoca su deterioro gradual, resultando en el olvido de la información almacenada.

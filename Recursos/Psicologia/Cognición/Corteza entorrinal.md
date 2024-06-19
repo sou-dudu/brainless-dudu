@@ -1,0 +1,1 @@
+La corteza entorrinal es una región del cerebro ubicada en el lóbulo temporal, crucial para la memoria y la navegación espacial. Actúa como un centro de integración entre el hipocampo y otras áreas corticales, facilitando el procesamiento de información y la formación de recuerdos a largo plazo.
